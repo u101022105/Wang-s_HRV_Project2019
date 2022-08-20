@@ -1,0 +1,9 @@
+File were all ran through and finished
+Duration of op took:
+10986.637136220932 seconds. (about 3hr3min)
+Reminder: This is the OP of Period OP
+
+From:
+C:\Users\Harry\Google 雲端硬碟\0_2019冠珵-節拍器與心律變異率\Python PSD_操作 2019\
+0721後 structure v1.2\1_Test session Level\
+session0801 night\Period_cata_results\0801night_out_res_0806
